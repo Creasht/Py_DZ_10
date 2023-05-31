@@ -9,7 +9,7 @@ random.shuffle(lst)
 data = pd.DataFrame({'whoAmI':lst})
 data.head()
 
-https://colab.research.google.com/drive/1qKamnDiRmpRZkpiqWPkunBdAhmzhMcGz?usp=sharing
+https://colab.research.google.com/drive/1A7BT3JZfFZoA9c9V_2Na-hjfq6YBytVY
 
 '''
 
